@@ -1,4 +1,6 @@
 from tkinter import *
+zizi
+
 
 class Grille:
     def __init__(self, x, y, taille):
